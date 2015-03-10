@@ -4,8 +4,10 @@
 
 #fantasyPresetRow {
   width:50%;
+  display: inline-block;
 }
 
 #scifiPresetRow {
   width:50%;
+  display: inline-block;
 }
