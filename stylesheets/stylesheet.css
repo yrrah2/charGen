@@ -1,3 +1,11 @@
 .presetRows {
   border: 1px solid black;
 }
+
+#fantastyPresetRow {
+  width:50%;
+}
+
+#scifiPresetRow {
+  width:50%;
+}
